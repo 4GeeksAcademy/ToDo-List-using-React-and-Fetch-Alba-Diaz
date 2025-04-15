@@ -9,7 +9,9 @@ const Home = () => {
 	return (
 		<>
 			<div className="mt-5 d-flex justify-content-center">
-				<h1>ToDo List <i className="fa-regular fa-calendar"></i></h1>
+				<h1>
+					<i className="fa-regular fa-calendar"></i> ToDo List <i className="fa-regular fa-calendar"></i>
+				</h1>
 			</div>
 			<TodoList />
 		</>

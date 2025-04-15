@@ -1,0 +1,31 @@
+.placeholder-icon::placeholder {
+
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+}
+
+::placeholder {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+
+}
+
+.form-bg-css {
+    background-color: rgba(134, 205, 181, 0.692);
+}
+
+.delete-btn-css {
+    color: rgba(134, 205, 181, 0.692);
+    font-size: large;
+}
+
+.todoListContainer-css {
+    width: 800px;
+
+}
+
+.font-css {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    font-size: 20px;
+}
